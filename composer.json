@@ -1,0 +1,7 @@
+{
+    "name": "stas131995/kiwi-science-interview-tests",
+    "type": "project",
+    "require": {
+        "smalot/pdfparser": "^0.15.0"
+    }
+}

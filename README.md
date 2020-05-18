@@ -1,5 +1,9 @@
 # Kiwi interview tasks
 
+## Installation
+
+*   Run `composer install` command.
+
 ## Tasks
 
 *   Sum of digits divided by three of - run `php sumOfDigitsDividedByThree.php` command.
